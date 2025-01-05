@@ -177,6 +177,7 @@ img {
         padding-block: 4.5rem 3.5rem ;
         box-shadow: 0 4px 16px hsla(353, 100%, 8%, .1);
         transition:top .4s ;
+        z-index:1000;
     }
 }
 .nav__list{
