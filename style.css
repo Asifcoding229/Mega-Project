@@ -440,7 +440,7 @@ img {
     font-size: var(--small-font-size);
 }
 .recipe__ingredient{
-    display: flex;
+  
     align-items: center;
     column-gap: .75rem;
 }
